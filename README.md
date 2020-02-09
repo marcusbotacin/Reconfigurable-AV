@@ -17,4 +17,4 @@ Msc. [Marcus Botacin](www.inf.ufpr.br/mfbotacin), under supervision of [Prof. Dr
 
 ## Paper
 
-* **[RecoSoC 2019](https://www.recosoc.org)**: The AV says: Your Hardware definitions were updated! -- Marcus Botacin, Lucas Galante, Fabricio Ceschin, Paulo Cesar Santos, Luigi Carro, Paulo Lício de Geus, André Grégio, Marco Zanata -- RecoSoC 2019.
+* **[RecoSoC 2019](https://www.recosoc.org)**: The AV says: Your Hardware definitions were updated! -- Marcus Botacin, Lucas Galante, Fabricio Ceschin, Paulo Cesar Santos, Luigi Carro, Paulo Lício de Geus, André Grégio, Marco Zanata -- RecoSoC 2019. [Check Here](https://github.com/marcusbotacin/Reconfigurable-AV/blob/master/Paper/paper.pdf)
